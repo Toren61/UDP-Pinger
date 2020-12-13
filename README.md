@@ -1,1 +1,1 @@
-# UDP-Pinger
+# UDP-Pinger er spennende greier!
